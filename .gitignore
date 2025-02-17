@@ -1,1 +1,6 @@
 "frontend-Bi/" 
+"node_modules/" 
+"bin/" 
+"obj/" 
+"venv/" 
+"__pycache__/" 
